@@ -1,5 +1,5 @@
 {
-  "source": ["**/*.json"],
+  "source": ["properties/**/*.json"],
   "platforms": {
     "scss": {
       "transformGroup": "scss",
