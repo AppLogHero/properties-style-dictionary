@@ -1,7 +1,7 @@
 {
   "color": {
     "background": {
-        "light" : { "value": "#000000" },
+        "light" : { "value": "#FFFFFF" },
         "medium": { "value": "#DFDFE8" },
         "dark"  : { "value": "#B8B8BF" }
     },
