@@ -87,16 +87,6 @@
             "category": "size"
           }
         }
-      },{
-        "destination": "Wording.swift",
-        "format": "ios-swift/wording.swift",
-        "className": "Wording",
-        "type": "string",
-        "filter": {
-          "attributes": {
-            "category": "wording"
-          }
-        }
       }]
     }
   }
