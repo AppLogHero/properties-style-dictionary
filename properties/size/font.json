@@ -6,7 +6,7 @@
         "comment": "the small size of the font"
       },
       "medium": {
-        "value": "2",
+        "value": "0.75",
         "comment": "the medium size of the font"
       },
       "large" : {
