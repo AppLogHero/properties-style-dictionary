@@ -6,7 +6,7 @@
         "dark"  : { "value": "#B8B8BF" }
     },
     "navbar": {
-      "worldline" : { "value": "#0066a1" }
+      "worldline" : { "value": "#000000" }
 
     }
   }
